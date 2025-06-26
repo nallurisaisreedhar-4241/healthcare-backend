@@ -31,8 +31,8 @@ A secure RESTful backend system for managing **patients**, **doctors**, and thei
 ### 1. Clone the repository
 
 
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/nallurisaisreedhar-4241/healthcare-backend
+cd healthcare-backend
 
 2. Create and activate a virtual environment
 
